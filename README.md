@@ -10,5 +10,5 @@
 #### Links
 
 * [workshop details](https://seec.gsfc.nasa.gov/News_and_Events/Spectral_Retrieval_Tutorial_2024.html)
-* [`fleck` docs](https://fleck.readthedocs.io/en/latest/fleck/jax.html)
-* [`shone` docs](https://shone.readthedocs.io/en/latest/)
+* `fleck`: [source](https://github.com/bmorris3/fleck), [docs](https://fleck.readthedocs.io/en/latest/fleck/jax.html)
+* `shone`: [source](https://github.com/bmorris3/shone/), [docs](https://shone.readthedocs.io/en/latest/)
