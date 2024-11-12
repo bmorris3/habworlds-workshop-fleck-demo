@@ -2,7 +2,7 @@
 
 ### Stellar contamination with `fleck` – Brett Morris
 
-<a target="_blank" href="https://colab.research.google.com/github/bmorris3/habworlds-workshop-fleck-demo/">
+<a target="_blank" href="https://colab.research.google.com/github/bmorris3/habworlds-workshop-fleck-demo/blob/main/fleck-demo.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
